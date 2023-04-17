@@ -1,4 +1,4 @@
-# Advanced-Software-Project-java-BootString
+# Advanced-Software-Project-java-String
 Description
 In this project you will work on building something similar to Fawry system. This system should 
 be user by users to pay for different services. The initial services are
